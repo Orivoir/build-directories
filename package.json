@@ -1,0 +1,21 @@
+{
+  "name": "build-directories",
+  "version": "1.0.0",
+  "description": "build a folder structure from an absolute path",
+  "main": "build-directories.js",
+  "scripts": {},
+  "keywords": [
+    "build",
+    "create",
+    "directory",
+    "append",
+    "directories",
+    "structure",
+    "resolve",
+    "api",
+    "generator"
+  ],
+  "author": "S.Gaborieau <sam.gabor@hotmail.com>",
+  "license": "BSD-2-CLAUSE",
+  "devDependencies": {}
+}
